@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is the first line in my
 hi this is prasanth....
+=======
+this is the first line in my code
+hi
+change was done by another
+>>>>>>> 6621c37197571519250e1262b42fe51b97508889
